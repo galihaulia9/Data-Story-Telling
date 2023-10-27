@@ -7,6 +7,7 @@ COVID-19 Social Assistance Data is an assistance program from the DKI Jakarta Pr
 https://data.jakarta.go.id/visualisasi/detail/188
 - The dataset has 9 columns and 2693 rows.
 - A description of the variables in this dataset :
+- No : contains the sequence number in a table.
 - City Area : contains recipients (KK) based on the city area in Jakarta who received social assistance.
 - Sub-District : contains recipients (KK) based on the sub-districts in Jakarta that received social assistance.
 - Village : contains recipients (KK) by urban village in Jakarta who received social assistance.
